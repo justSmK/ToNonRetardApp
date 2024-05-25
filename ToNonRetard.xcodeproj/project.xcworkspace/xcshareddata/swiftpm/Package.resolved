@@ -1,0 +1,15 @@
+{
+  "originHash" : "930ec2feaf7d2b0f01c93f2f6d620c476ce701578b0850253a67f914e66460dc",
+  "pins" : [
+    {
+      "identity" : "tononretardlibrary",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/justSmK/ToNonRetardLibrary",
+      "state" : {
+        "revision" : "202f67574244d34ba7b5b9904fa685ec929e73bb",
+        "version" : "0.0.2"
+      }
+    }
+  ],
+  "version" : 3
+}
